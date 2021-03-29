@@ -6,7 +6,7 @@ namespace A133590.Ejercicio32
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ejercicio 31.");
+            Console.WriteLine("Ejercicio 32.");
             Console.WriteLine("Programa que presenta la diferencia entre dos fechas");
             Console.Write("Por favor, ingrese una fecha: ");
             DateTime fecha;
